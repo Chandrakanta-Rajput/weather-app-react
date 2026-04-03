@@ -6,12 +6,12 @@ export default function WeatherApp() {
     const [weatherInfo, setWeatherInfo] = useState(
         {
             city:"Delhi",
-            feelslike:314.2,
-            temp:307.2,
-            tempMin:307.2,
-            tempMax:307.2,
-            humidity:70,
-            weather:"haze"    
+            feelslike:29.49,
+            temp:29.05,
+            tempMin:29.05,
+            tempMax:29.05,
+            humidity:48,
+            weather:"drizzle"    
        }
     );
 
